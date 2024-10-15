@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    nav{
+       @apply fixed inset-x-0 z-10 transition duration-1000 opacity-100
+    }
+    section{
+        @apply  z-30 transition duration-1000 opacity-100
+    }
+}

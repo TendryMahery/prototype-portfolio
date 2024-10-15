@@ -1,0 +1,25 @@
+{
+  "personnes": [
+    {
+      "id": 4,
+      "nom": "RANDRIA",
+      "prenom": "faramalemy",
+      "age": 78,
+      "manambady": true
+    },
+    {
+      "nom": "rakoto kely",
+      "prenom": "tendry",
+      "age": "78",
+      "manambady": true,
+      "id": 6
+    },
+    {
+      "nom": "yyuyu",
+      "prenom": "yyuuy",
+      "age": "78",
+      "manambady": true,
+      "id": 9
+    }
+  ]
+}
